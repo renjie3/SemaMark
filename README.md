@@ -20,6 +20,10 @@ The checkpiont for OPT-2.7B is [Google drive](https://drive.google.com/file/d/1o
 
 Detailed CMD of watermarking can be found in **generation.sh**
 
+### Acknowledgement
+
+This is code is based on [A Watermark for Large language Models](https://github.com/jwkirchenbauer/lm-watermarking). We appreciate their great work!
+
 ## Cite
 ```
 @inproceedings{ren2024robust,
